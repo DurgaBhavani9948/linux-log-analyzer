@@ -1,0 +1,6 @@
+Jul 10 10:10:10 server1 systemd: Starting service
+Jul 10 10:10:11 server1 kernel: WARNING Disk space low
+Jul 10 10:10:12 server1 sshd: ERROR Failed login attempt
+Jul 10 10:10:13 server1 systemd: Service started successfully
+Jul 10 10:10:14 server1 kernel: WARNING CPU temperature high
+Jul 10 10:10:15 server1 sshd: ERROR Authentication failure

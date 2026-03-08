@@ -1,0 +1,5 @@
+Type,Log Message
+WARNING,Jul 10 10:10:11 server1 kernel: WARNING Disk space low
+ERROR,Jul 10 10:10:12 server1 sshd: ERROR Failed login attempt
+WARNING,Jul 10 10:10:14 server1 kernel: WARNING CPU temperature high
+ERROR,Jul 10 10:10:15 server1 sshd: ERROR Authentication failure
