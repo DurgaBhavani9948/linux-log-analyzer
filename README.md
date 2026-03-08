@@ -2,7 +2,7 @@
 
 
 
-A Python-based CLI tool to analyze Linux system logs (`syslog`) for \*\*errors\*\* and \*\*warnings\*\*, generate a CSV report, and summarize critical issues. This project demonstrates practical skills in Python scripting, log monitoring, and software development — ideal for system engineering or Red Hat internship roles.
+A Python-based CLI tool to analyze Linux system logs (`syslog`) for \*\*errors\*\* and \*\*warnings\*\*, generate a CSV report, and summarize critical issues. This project demonstrates practical skills in Python scripting, log monitoring, and software development.
 
 
 
